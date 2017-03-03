@@ -1,0 +1,38 @@
+
+-Login page 
+	- On successful login will go to home page
+	- On failed login will prompt user for username
+	- Contains register link
+		- When clicking register link will go to register page
+-Register Page
+	- When registeration is successful, goes to login page
+	- When registrartion is unsuccessful, page will reload
+- Ad page
+	- When clicking ad, will go to the ad details page
+
+-Homepage
+	--Recommended (main content of home page)
+		- Clicking on this reveals reccomended items
+
+All items below will be links from the home page
+
+-Search 
+	- On sucessful search will display items
+-Browse 
+	- Clicking specific categories will show items respectively based on items 
+
+-Cart page
+	- Clicking will view cart
+	- Clicking checkout will go to checkout page
+	- Clicking back will go home
+	--Checkout page 
+		- Include payment options and when checkout is done will go to home page
+		- Clicking back will go to cart 
+-Sell page
+	- After selling details are complete, go to ad page
+	- clicking back will go to homepage
+
+-Profile Page
+	- clicking on an ad will go to ad page
+	- clicking back will go to home page
+-About page

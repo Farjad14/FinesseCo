@@ -9,7 +9,7 @@ c) As a user I want to register for an account so I can log in <br />
 <br />
 <br />
 Specific tasks to be accomplished: <br />
-a-1. (Finesse Co.) Begin designing the layou of the website <br />
+a-1. (Finesse Co.) Begin designing the layout of the website <br />
 a-2. (Finesse Co.) Start making the main screen <br />
 b-1. (Login) Get the HTML done for the login<br />
 b-2. (Login) Get the SQL done for the login<br />

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <h1>Register</h1>
-<form>
+<form action="login.php">
 <p>
     <label for="ruser">User: </label>
     <input type="text" id="ruser">

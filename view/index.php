@@ -1,14 +1,14 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="../view/style.css">
+        <link rel="stylesheet" type="text/css" href="view/style.css">
         <title> Finesse Co. </title>
     </head>
     <body>
         <div class="header">
             <div class="links">
-                <a href="login.php">Login</a>
-                <a href="register.php">Register Now</a>
+                <a href="view/login.php">Login</a>
+                <a href="view/register.php">Register Now</a>
             </div>
             <div class="title">
                 <h1>Finesse Co.</h1>
@@ -27,25 +27,31 @@
 </html>
 
 <?php
+require_once "model/model.php";
+
+session_save_path("sess");
+session_start();
 
 switch ($_SESSION['state']) {
     
     case "register":
         $user  = $_REQUEST['user'];
         $pwd   = $_REQUEST['password'];
-        $fname = $_REQUEST['firstname'];
-        $lname = $_REQUEST['lastname'];
-        $email = $_REQUEST['email'];
+       // $fname = $_REQUEST['firstname'];
+       // $lname = $_REQUEST['lastname'];
+       // $email = $_REQUEST['email'];
+       $success = false;
         
-        if (empty($user) || empty($pwd) || empty($fname) || empty($lname) || empty($email) || empty($type) ) {
-            $errors[] = 'Missing required information';
+        if (empty($user) || empty($pwd)) {
+            echo 'Missing required information';
         }
         else {
-            registerUser($user, $pwd, $fname, $lname, $email);
+            $success = registerUser($user, $pwd);
         }
-        
-        $_SESSION['state']    = 'login';
-        $view                 = "login.php";
+        if($success){  
+            $_SESSION['state']    = 'login';
+            $view                 = "login.php";
+        }
         
         break;
         

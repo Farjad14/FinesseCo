@@ -24,7 +24,8 @@ class Database {
 		return false;
 	}
 
-	public function registerUser($username, $password, $email, $first, $last, $phone, $city, $pro_state, $country, $street, $postal_zip) {
+	//public function registerUser($username, $password, $email, $first, $last, $phone, $city, $pro_state, $country, $street, $postal_zip) {
+        public function registerUser($username, $password){
 		if(isset($username)){
 			$user = pg_prepare($this->dbconn, "q".$this->counter, "SELECT * FROM users WHERE username=$1"); # check result
 			$user = pg_execute($this->dbconn, "q".$this->counter, array($username));
@@ -41,11 +42,12 @@ class Database {
 
 				$this->counter += 1;
 				return true;
-		}
-		else {
+                }
+            else {
 				return false;
-		}
-	}
+            }
+        }
 
 	}
+}
 ?>

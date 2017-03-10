@@ -1,0 +1,36 @@
+Class Name: User
+Parent Class: None
+Classname Subclasses: Buyer, Seller
+Responsibilites:
+*Login
+*Register
+Collaborators:
+*DB
+
+Class Name: Buyer
+Parent Class: User
+Classname Subclasses: None
+Responsibilites:
+*Purchase products
+Collaborators:
+*DB
+
+Class Name: Seller
+Parent Class: User
+Classname Subclasses: None
+Responsibilites:
+*Sell Products
+Collaborators:
+*DB
+
+Class Name: DB
+Parent Class: None
+Classname Subclasses: None
+Responsibilites:
+*Store login info into sql db
+*retrieve login info for verification
+*store products and product info
+*retrieve products and product info for store
+Collaborators:
+*Buyer
+*Seller

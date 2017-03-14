@@ -8,7 +8,7 @@ $_REQUEST['password']=!empty($_REQUEST['password']) ? $_REQUEST['password'] : ''
 	<h2>Login</h2>
 	<form method="post" action="../index.php">
 		<p class="userpass">
-			<label for="user">User2: </label>
+			<label for="user">User: </label>
 			<input type="text" id="user"></input>
 		</p>
 		<p class="userpass">

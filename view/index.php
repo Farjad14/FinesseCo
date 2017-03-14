@@ -7,7 +7,7 @@
     <body>
         <div class="header">
             <div class="links">
-                <a href="view/login.php">Login2</a>
+                <a href="view/login.php">Login</a>
                 <a href="view/register.php">Register Now</a>
             </div>
             <div class="title">

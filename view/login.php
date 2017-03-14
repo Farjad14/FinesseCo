@@ -15,7 +15,7 @@ $_REQUEST['password']=!empty($_REQUEST['password']) ? $_REQUEST['password'] : ''
 			<label for="password">Password: </label>
 			<input type="password" id="password"></input>
 		</p>
-		<input type="submit"> Submit </input>
+		<input type="submit"> Submit2 </input>
         
 	</form>
 </html>

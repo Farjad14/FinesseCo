@@ -7,7 +7,7 @@
 * Osama Alam
 * Raj Shah
 
-##Finished Tasks from previous sprints
+## Finished Tasks from previous sprints
 
 * The unfunctional login and register pages were updated to work as designed.
     * We used and MVC design architecture within our index page and used it as a controller in order to command the login verification to speak to our database

@@ -1,0 +1,21 @@
+TITLE: Visual Land - Prestige Elite 8QI - 8" Tablet - 16GB - Purple
+DESC: Great for the whole family, this tablet features built-in Wi-Fi for easy access to the Web and a vivid 8" display that boasts easy finger-touch navigation and high-quality resolution. Use a microSDHC card to expand the internal memory up to 32GB to accommodate your growing media collection.
+PRICE: $79.99
+LOCATION: /images/tablets/other/rsz_visual_land.jpg
+
+TITLE: Insignia™ - 11.6" - Tablet - 32GB - With Keyboard - Black
+DESC: Increase productivity with this powerful Insignia tablet. It has an 11.6-inch touch screen that provides high-definition viewing, and the 32GB of built-in storage help you manage documents, music files and applications. Snap photos and chat with others via video-conference applications with the rear-facing and front-facing cameras of this Insignia tablet.
+PRICE: $199.99
+LOCATION: /images/tablets/other/rsz_insignia.jpg
+
+TITLE: Lenovo - TAB 2 A10-30F - 10.1" - Tablet - 16GB - Midnight blue
+DESC: Maintain your social media accounts or access work via this Lenovo tablet. It's portable and ideal for travel, and the Dolby Audio delivers realistic sound when you're playing games or watching movies. This Lenovo tablet includes preloaded productivity software to keep you organized and efficient when away from your desk.
+PRICE: $140.00
+LOCATION: /images/tablets/other/rsz_lenovo.jpg
+
+TITLE: Asus - ZenPad 8.0 - 8" - Tablet - 16GB - Dark gray
+DESC: Take your favorite books and apps with you wherever you roam with this Asus ZenPad tablet, featuring Android 6.0 Marshmallow for reliable program support. IPS technology ensures a clear, fluent picture whether you're streaming video or playing a game. This Asus ZenPad tablet features a durable Corning Gorilla Glass screen and 10-point multi-touch for responsive use.
+PRICE: $129.66
+LOCATION: /images/tablets/other/rsz_asus.jpg
+ 
+

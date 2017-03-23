@@ -1,0 +1,26 @@
+TITLE: Samsung Galaxy Tab S3 9.7" 32GB Android N Tablet With Qualcomm APQ 8096 Quad-Core Processor - Black
+DESCRIPTION: With a sleek premium design, quad speakers, and a Super AMOLED display with HDR compatibility, the Galaxy Tab S3 looks amazing, and sounds incredible. And with a Qualcomm APQ 8096 quad-core processor, 4GB RAM, and Android N, it performs in a class of its own. It includes the advanced S Pen with a wealth of tools and precision performance. 
+PRICE: $799.13
+LOCATION: galaxy_tab_s3.jpeg
+
+TITLE: Samsung Galaxy Tab A 10.1" 16GB Android 6.0 Tablet - White
+DESCRIPTION: Connect, engage, and be entertained all with a single device. The Samsung Galaxy Tab A 10.1" tablet features a WUXGA touchscreen display with 1920 x 1200 resolution for a stunning viewing EXPERIENCE. It has Built-in Wi-Fi and Bluetooth, and has an 8MP rear-facing camera that records video in Full HD and a front-facing 2MP, great for video chats.
+PRICE: $380.23
+LOCATION: /images/tablets/samsung/galaxy_tab_a.jpg
+
+TITLE: Samsung Galaxy Tab 7" E Lite 8GB Android 4.4 Tablet with Spreadtrum T-Shark Quad-Core Processor-White
+DESCRIPTION: There's something for everyone with the Samsung Galaxy Tab 7" E Lite tablet. Designed with the whole family in mind, it offers 8GB of internal storage, a speedy quad-core processor with 1GB RAM, the intuitive Android 4.4 KitKat OS, as well as convenient multi-user and multi-tasking abilities that make this tablet a breeze and a pleasure to use. 
+PRICE: :150.32
+LOCATION: /images/tablets/samsung/galaxy_Tab_e.jpg
+
+TITLE: Samsung Galaxy Tab S2 8.0" 32GB Android 6.0 Marshmallow Tablet w/ Exynos 5433 8-Core - Gold-Open Box - Online Only
+DESCRIPTION: Entertainment, connectivity, productivity—you'll enjoy it all with this Samsung 8.0" Galaxy Tab S2. Sporting a super-slim and lightweight design, this tablet is your ideal on-the-go companion you'll never want to put down. Enjoy true-to-life visuals on the Super AMOLED display and get your work done efficiently with preloaded Microsoft Office. 
+PRICE: $420.00
+LOCATION: /images/tablets/samsung/galaxy_tab_s2.jpg
+
+TITLE: Samsung - Galaxy Tab E Lite 7" 8GB - Black
+DESCRIPTION: There's something for everyone with the Samsung Galaxy Tab 7" E Lite tablet. Designed with the whole family in mind, it offers 8GB of internal storage, a speedy quad-core processor with 1GB RAM, the intuitive Android 4.4 KitKat OS, as well as convenient multi-user and multi-tasking abilities that make this tablet a breeze and a pleasure to use. 
+PRICE: $99.99
+LOCATION: /images/tablets/samsung/rsz_tab_e.jpg
+
+

@@ -1,0 +1,19 @@
+TITLE: Microsoft Surface Pro 4 12.3" 128GB Windows 10 Tablet With 6th Gen Intel Core i5-6300U - Silver
+DESCRIPTION: Power and portability reach impressive new heights with the Microsoft Surface Pro 4. This innovative 2-in-1 laptop tablet is lighter than its predecessor while delivering increased processing power to handle all your daily needs. The high-contrast 12.3-inch PixelSense reduces glare and eye strain, plus conversion from tablet to laptop is easier than ever with the multi-position Kickstand. 
+PRICE: $1199.99
+LOCATION: /images/tablets/microsoft/rsurface_pro_4.jpg
+
+TITLE: Microsoft Surface Pro 4 12.3" 256GB Win10 Tablet w/Intel Core i7-6650U,16GB RAM & Accessories-French
+DESCRIPTION: Get all your work and entertainment needs covered with this Microsoft Surface Pro 4 and accessories bundle. It includes a 12.3 inch Surface Pro 4, with 256GB storage and Full HD display, a french Type Cover featuring a full QWERTY keyboard, a Surface Arch Touch Mouse, a 65W Charger and a 1 Year Subscription of Office 365 Home.
+PRICE: $2350.99
+LOCATION: /images/tablets/microsoft/rsz_surface_pro_pack.jpg
+
+TITLE: New! Microsoft Surface Pro 3 12" 128GB Windows 10 Tablet With Intel Core i5 Processor - Silver - Open Box
+DESCRIPTION: The tablet that can replace your laptop. Whether you call it a hybrid, convertible, or 2 in 1, the new Surface Pro 3 is in a category of its own. With a stunning 12" display in a sleek magnesium frame, Surface Pro 3 has all the power and performance of a laptop in an incredibly lightweight, versatile form. It may just be the ultimate device. 
+PRICE: $499.64
+LOCATION: /images/tablets/microsoft/rsz_surface_pro_3.jpg
+
+TITLE: Microsoft - Surface 3 - 10.8" - Intel Atom - 128GB - Silver
+DESCRIPTION: This compact tablet is equipped with the full power of a laptop and is lightweight enough to take with you wherever you go. You can use the kickstand and attach the keyboard (sold separately) to use it as a laptop that runs all of your programs.
+PRICE: $590.88
+LOCATION: /images/tablets/microsoft/rsz_surface_3.jpg

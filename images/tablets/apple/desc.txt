@@ -1,0 +1,19 @@
+TITLE: Apple - 12.9- Inch iPad Pro with Wi-Fi - 128GB - Silver
+DESCRIPTION: Even with its 12.9-inch Retina display, the largest and most capable iPad ever is only 6.9mm thin and weighs just 1.57 pounds. It has a powerful A9X chip with 64-bit desktop-class architecture, four speaker audio, advanced iSight and FaceTime HD cameras, Wi-Fi and LTE connectivity¹, iCloud, the breakthrough Touch ID fingerprint sensor, and up to 10 hours of battery life.² It also includes great apps for productivity and creativity, as well as many more incredible apps available in the App Store. And with powerful new features in iOS 9 like multitasking, iPad Pro can do things no iPad has done before.
+PRICE: $899.34
+LOCATION: /images/tablets/apple/rsz_ipad_pro.jpg
+
+TITLE: Apple - iPad Air 2 Wi-Fi 32GB - Space Gray
+DESCRIPTION: The thinnest iPad ever is also the most capable. It's loaded with advanced technologies, including the Touch ID fingerprint sensor.
+PRICE: $399.99
+LOCATION: /images/tablets/apple/rsz_10487824.jpg
+
+TITLE: Apple - iPad mini 4 Wi-Fi + Cellular 128GB - Gold
+DESCRIPTION: iPad mini 4 has a gorgeous 7.9-inch Retina display, yet it's only 6.1mm thin and weighs just 0.65 pounds, making it small enough to hold in one hand. It has a powerful A8 chip with 64-bit desktop-class architecture, iSight and FaceTime HD cameras, Touch ID fingerprint sensor, Wi-Fi and LTE connectivity,¹ and up to 10 hours of battery life.² It also includes productivity and creativity apps, and powerful features in iOS 9 like multitasking. And there are even more incredible iPad apps available in the App Store.
+PRICE: $629.90
+LOCATION: /images/tablets/apple/rsz_ipad_mini.jpg
+
+TITLE: Apple - iPad® mini 2 with Wi-Fi + Cellular - 32GB - Space Gray
+DESCRIPTION: iPad® mini 2 has a stunning 7.9-inch Retina display with over 3.1 million pixels. It also comes with the A7 chip with 64-bit architecture, ultrafast wireless, iSight and FaceTime HD cameras, powerful apps, and up to 10 hours of battery life.1 Yet it still fits easily in one hand.
+PRICE: $399.32
+LOCATION: /images/tablets/apple/rsz_ipad_mini_2.jpg

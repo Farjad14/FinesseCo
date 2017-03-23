@@ -1,0 +1,90 @@
+<script>
+//Laptop-HP Display
+	var Header = document.getElementById('header');
+	var Categories = document.getElementById('categories');
+	var HP-page = document.getElementById('HP-Page');
+	var HP-Page-Display = document.getElementById('PageDisplay');
+
+        HP-page.onclick = function(){
+             //homeContent.style.display = "none";
+    	     //iphone7Display.style.display="none";
+	     //hpDisplay.style.display="none";
+	     //cartDisplay.style.display="none";
+	     var divs = ​document.getElementsByTagName("div");​
+		for (var i = 0; i < divs.length; i++) {
+		  divs[i].style.display = 'none';        
+		}
+             Header.style.display="block";
+	     Categories.style.display="block";
+	     HP-Page-Display.style.display="block";
+        }
+
+</script>
+
+
+
+
+
+<div class="categories">
+              <div class="laptop-dropdown">
+                  <button class="droplap">Laptops</button>
+                  <div class="laptop-content">
+			
+                    <a href="view/about.php">HP</a>
+                    <a href="#">DELL</a>
+                    <a href="#">Apple</a>
+                    <a href="#">Other</a>
+
+                    <h3><a href="#">View All</a></h3>
+                  </div>
+              </div>
+
+              <div class="tablet-dropdown">
+                  <button class="droplap">Tablets</button>
+                  <div class="tablet-content">
+                    <a href="#">Samsung</a>
+                    <a href="#">Microsoft</a>
+                    <a href="#">Apple</a>
+                    <a href="#">Other</a>
+
+                    <h3><a href="#">View All</a></h3>
+                  </div>
+              </div>
+
+            <div class="phone-dropdown">
+              <button class="dropphones">Cell Phones</button>
+              <div class="phone-content">
+                <a href="#">Samsung</a>
+                <a href="#">Apple</a>
+                <a href="#">Google</a>
+                <a href="#">Other</a>
+
+                <h3><a href="#">View All</a></h3>
+            </div>
+          </div>
+
+          <div class="tv-dropdown">
+            <button class="droptv">TVs</button>
+            <div class="tv-content">
+              <a href="#">Samsung</a>
+              <a href="#">Sony</a>
+              <a href="#">LG</a>
+              <a href="#">Other</a>
+
+              <h3><a href="#">View All</a></h3>
+          </div>
+        </div>
+
+
+      <div class="acc-dropdown">
+        <button class="dropaccessories">Accessories</button>
+        <div class="acc-content">
+          <a href="#">Computer</a>
+          <a href="#">Cell Phone</a>
+          <a href="#">TV</a>
+          <a href="#">Other</a>
+
+          <h3><a href="#">View All</a></h3>
+      </div>
+    </div>
+            </div>

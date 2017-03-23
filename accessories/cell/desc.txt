@@ -1,0 +1,19 @@
+title: Samsung 0.75m (2.4 ft.) Adaptive Fast Charging MicroUSB Wall Charger - White
+price: 50
+about: With this adaptive fast charging Micro USB wall charger for Galaxy Note 4, your battery can go from zero to up to 50% in about 30 minutes, so you can spend less time connected to an outlet and more time connecting with people you care about.
+
+title: OtterBox Commuter iPhone 6 Plus/6s Plus Fitted Hard Shell Case - Black
+price: 55
+about: Built with two protective layers and a sleek, slim design, this OtterBox Commuter iPhone 6 Plus/6s Plus Case has got you covered. This durable, lightweight case features a self-adhesive screen protector to give you extra protection and keep your screen safe from scratches and scuffs.
+
+title: Nomad 1800mAh Charger for iPhone
+price: 50
+about: At home and on-the-go charging for all. Nomad plus takes your apple charger and adds an 1800mah battery for portable charging power.
+
+title: Huawei Naked Shell Nexus 6P Fitted Hard Shell Case - Clear
+price: 20
+about: Maintain your mobile phone’s flawless exterior with the OEM Naked Shell for the Huawei Nexus 6P. Made using polycarbonate material, this fitted hard shell is thin and lightweight while staying strong and durable.
+
+title: Mophie juice pack air iPhone 7 Plus Battery Case - Black
+price: 100
+about: A low battery is a thing of the past thanks to the mophie juice pack air for iPhone 7 Plus. This lightweight protective case acts as your backup battery, offering up to 33 hours of talk time. The juice pack air also delivers edge-to-edge protection and features wireless charging technology for convenient charging on any wireless charging base.

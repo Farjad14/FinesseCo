@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html>
+
+
+
+<script>
+//----------Iphone 7 Cart(JavaScript)---------------------------------------------------------->
+
+	var cart = document.getElementById('cart2');
+	var iphone7Display = document.getElementById('iphone7Display');
+	
+	var homeContent = document.getElementById('content'); 
+	
+	
+	cart.onclick = function(){
+	    
+            homeContent.style.display = "block";
+	    iphone7Display.style.display="none";
+	    //cartDisplay.style.display="block";
+
+	    var request = $.ajax({
+                url: "api/api.php",
+                method: "PUT",
+                data: JSON.stringify({
+                    productName : $("#Iphone7name").val(), price : $("#Iphone7price").val()
+                }),
+                contentType: "application/json; charset=UTF-8",
+
+            });
+            request.done(function(msg) {
+		alert("Item Added to Cart");
+
+            });
+	    
+        }
+
+</script>
+
+
+
+
+
+<script>
+//-----------Iphone 7 Product Display(JavaScript)--------------------------------------------->
+var iphone7 = document.getElementById('iphone7');
+var iphone7Display = document.getElementById('iphone7Display');
+var homeContent = document.getElementById('content'); 
+iphone7.onclick = function(){
+    
+    homeContent.style.display = "none";
+    iphone7Display.style.display="block";
+	
+    
+}
+</script>
+
+
+<!------------Main page for that BRAND (HTML)------------------------------------------------>
+
+<!--#Change the Image ID-->
+
+<div id="content">
+		<div class="Featured">
+		  <h3>Featured</h3>
+
+		    <table>
+		      <tr>
+		        <td><img id = "iphone7" src="images/iphone.jpg" alt="Iphone 7">
+				<a href="#"><figcaption>Iphone 7 32GB Unlocked</figcaption></a></td>
+
+		        <td><img id = "hpPbk" src="images/laptop.jpg" alt="Lenovo Laptop">
+				<a href="#"><figcaption>HP ProBook BNIB</figcaption></a></td>
+
+
+		        <td><img id = "s7case" src="images/s7case.jpg" alt="Samsung cases">
+		          <a href="#"><figcaption>Galaxy s7 cases</figcaption>
+		        </a></td>
+		      </tr>
+		  </table>
+		</div>
+</div>
+
+<!------------Main page for that BRAND (HTML)---------------------------------------------->
+<!------------Iphone 7 Product Display (HTML)!------------->
+<!--#Whereever you see an ID in the tag, give a unique ID to it! for Instance, for product name....id='DellInspironName'--->
+<!--#Give Unique Ids to each Input text-----------for Instance, for product price....id='DellInspironPrice'---->
+<!--#Give Unique Ids to cart-------------------for Instance, for product Cart....id='DellInspironCart'---->
+<!--In the examples above you got Dell as the Brand, Inspiron is Dell's product--->
+
+	<div id="iphone7Display" style="Display:none">
+		<center>
+			<br>
+			<br>
+			<br>
+			 <table>
+			      <tr>
+				<td><img src="images/iphone.jpg" alt="Iphone 7"></td>
+			      </tr>
+			      <tr>
+				<td><input type="text" name = "Product Name" id="Iphone7name" value="Iphone 7" style="border: none">
+				<td><input type="text" name = "Price" id="Iphone7price" value="$989.89" style="border: none">
+				<td><input type="text" name = "Description" value="WRITE THE DESCIPTION BRUHH" style="border: none">
+			      </tr>
+				<tr><a id="cart2" class="cart">Add to Cart</a>
+			</table>
+		
+		</center>
+	</div>
+
+
+</html>

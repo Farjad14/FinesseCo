@@ -1,0 +1,20 @@
+
+title: Samsung 28" 4K UHD 60Hz 1ms GTG TN LED FreeSync Gaming Monitor - Black/Titanium Silver
+price: 450
+about: Elevate your gaming and entertainment experience with the Samsung UE590 28" 4K UHD monitor. It boasts a whopping 8 million pixels and 1 billion colours, for crystal-clear picture that looks natural. Blaze through fast-action gaming with minimal blurring and tearing thanks to a 1ms response time and AMD FreeSync.
+
+title: HOMCOM Computer Desk Table Home Office Furniture with Keyboard Tray and CPU Stand Black White
+price: 155
+about:If youre looking for a stylish desk with the ability to store your computer, all of its accessories and still have room leftover youve found it in this unique offering from HOMCOM. Come with a sliding tray for your keyboard and a large convenient workspace for your monitor and any other items for daily work. With a small drawer and cabinet to keep your stationary or any personal belongings
+
+title: Lexar JumpDrive S57 128GB USB 3.0 Flash Drive - Black/Teal
+price: 100
+about: The Lexar JumpDrive S57 delivers convenient storage with reliable performance. Perfect for storing your most prized photos, documents, and videos, this USB 3.0 flash drive offers a 128GB storage capacity with read transfer speeds up to 150MB/s. It has built-in EncryptStick Lite software with 256-bit AES encryption to keep your sensitive files safe.
+
+title: Razer BlackWidow Ultimate 2014 Mechanical Gaming Keyboard - English
+price: 110
+about: The Razer BlackWidow Ultimate is a mechanical keyboard designed for professional gamers and casual enthusiasts alike. The mechanical switches offer a tactile feel for precise control during your most intense battles. It supports unlimited macros and offers backlit keys for optimial visibility.
+
+title: Logitech G602 Wireless Optical Mouse - Black
+price: 90
+about: The Logitech G602 redefines the laws of wireless gaming. It has a 250-hour battery life, plus high-accuracy Delta Zero technology, which is optimized for high-accuracy cursor control. The ultra-durable build can withstand more than 20 million clicks within its lifespan.

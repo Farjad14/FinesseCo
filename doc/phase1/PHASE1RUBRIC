@@ -40,12 +40,11 @@ Product Backlog PB.md (Max 10 marks)
    Your mark: 1
   -Presence of the stories in the pivotal tracker: 2 marks = all stories have been recorded in the tracker, 1 mark=some stories are missing, 
    0 marks=no stories are recorded in the tracker 
-   Your mark: 0
+   Your mark: 2
   
-   PB.md mark: 6
+   PB.md mark: 8
    -User is always used, which is a very general role
    -Some grammar errors that prevent the story from being readable eg "As a user I want to checkout items before I find"
-   -Team doesn't have a linked pivotal tracker so I can't see the stories
    
 Definition of done: done.md (max 2 marks)
    -Definition of done is relevant to the project and applies to all stories [2 marks]
@@ -102,6 +101,6 @@ User experience: (max 4 marks)
    User experience mark: 2
    
    
-Total mark for phase 1 : 30/44   
+Total mark for phase 1 : 32/44   
 	
 
